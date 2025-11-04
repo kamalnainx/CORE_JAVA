@@ -1,0 +1,317 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Output",
+            "request": "launch",
+            "mainClass": "Output",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CJ49_GenericMethod",
+            "request": "launch",
+            "mainClass": "CJ49_GenericMethod",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - java47_local_string",
+            "request": "launch",
+            "mainClass": "java47_local_string",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - java46_enum",
+            "request": "launch",
+            "mainClass": "java46_enum",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - java45_form3_event_button_anonymous",
+            "request": "launch",
+            "mainClass": "java45_form3_event_button_anonymous",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - java44_form3_event_button_anonymous",
+            "request": "launch",
+            "mainClass": "java44_form3_event_button_anonymous",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - java43_form1_event_button",
+            "request": "launch",
+            "mainClass": "java43_form1_event_button",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A42_connectivitywithsql",
+            "request": "launch",
+            "mainClass": "A42_connectivitywithsql",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A41_niojava",
+            "request": "launch",
+            "mainClass": "A41_niojava",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CJ1_msgprint",
+            "request": "launch",
+            "mainClass": "CJ1_msgprint",
+            "projectName": "java code_87336437"
+        },
+        {
+            "name": "(gdb) Attach",
+            "type": "cppdbg",
+            "request": "attach",
+            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "processId": "${command:pickProcess}",
+            "MIMode": "gdb",
+            "miDebuggerPath": "/path/to/gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ]
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A33_autosafecounter",
+            "request": "launch",
+            "mainClass": "A33_autosafecounter",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A32_ThreadSynchronizationPIJ_Session_07B",
+            "request": "launch",
+            "mainClass": "A32_ThreadSynchronizationPIJ_Session_07B",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A31_multithreadingdemo",
+            "request": "launch",
+            "mainClass": "A31_multithreadingdemo",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A30_threadclass",
+            "request": "launch",
+            "mainClass": "A30_threadclass",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A29_priorityqueue",
+            "request": "launch",
+            "mainClass": "A29_priorityqueue",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A28_collections",
+            "request": "launch",
+            "mainClass": "A28_collections",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A27_arraydequedemo",
+            "request": "launch",
+            "mainClass": "A27_arraydequedemo",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A26_HashMapinterface",
+            "request": "launch",
+            "mainClass": "A26_HashMapinterface",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A25_listinterfaceaeeay",
+            "request": "launch",
+            "mainClass": "A25_listinterfaceaeeay",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A24_GenericClass",
+            "request": "launch",
+            "mainClass": "A24_GenericClass",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A23_CurrencyDemo",
+            "request": "launch",
+            "mainClass": "A23_CurrencyDemo",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sapna",
+            "request": "launch",
+            "mainClass": "sapna",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A22_javaregex",
+            "request": "launch",
+            "mainClass": "A22_javaregex",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A21_polymorphisminstanceof",
+            "request": "launch",
+            "mainClass": "A21_polymorphisminstanceof",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A20_polymorphismbinding",
+            "request": "launch",
+            "mainClass": "A20_polymorphismbinding",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A19_runtimepolymorphism",
+            "request": "launch",
+            "mainClass": "A19_runtimepolymorphism",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sapna",
+            "request": "launch",
+            "mainClass": "Sapna",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A18_runtimepolymorphism",
+            "request": "launch",
+            "mainClass": "A18_runtimepolymorphism",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A17_finalpolymorphism",
+            "request": "launch",
+            "mainClass": "A17_finalpolymorphism",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A16_polymorphismbolck",
+            "request": "launch",
+            "mainClass": "A16_polymorphismbolck",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A15_polymorphismsuper",
+            "request": "launch",
+            "mainClass": "A15_polymorphismsuper",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - polymorphismmethod",
+            "request": "launch",
+            "mainClass": "polymorphismmethod",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Modifiers1<java code_87336437>",
+            "request": "launch",
+            "mainClass": "Modifiers1",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Niit<java code_87336437>",
+            "request": "launch",
+            "mainClass": "Niit",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Simple<java code_87336437>",
+            "request": "launch",
+            "mainClass": "Simple",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<java code_87336437>",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Testmulti<java code_87336437>",
+            "request": "launch",
+            "mainClass": "Testmulti",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-interface1<java code_87336437>",
+            "request": "launch",
+            "mainClass": "interface1",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<java code_87336437>(1)",
+            "request": "launch",
+            "mainClass": "pack1.Test",
+            "projectName": "java code_87336437"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-polymorphism1<java code_87336437>",
+            "request": "launch",
+            "mainClass": "polymorphism1",
+            "projectName": "java code_87336437"
+        }
+    ]
+}

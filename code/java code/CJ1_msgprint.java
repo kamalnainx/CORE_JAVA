@@ -1,0 +1,25 @@
+// class CJ1_msgprint
+// {
+// 	public static void main(String args[])
+// 	{
+// 		//System.out.print("Hello World");
+	
+
+
+// 		System.out.println("Hello World");
+// 		System.out.print("Hello World");
+		
+		
+// 		System.out.print("\nHello World");
+// 		System.out.print("\nHello World");
+	
+// 	}
+// }
+
+class CJ1_msgprint
+{
+	public static void main(String[] args)
+	{
+		System.out.println("Hello world");	
+	}
+}

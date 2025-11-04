@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "cj10_array2D",
+            "request": "launch",
+            "mainClass": "cj10_array2D",
+            "projectName": "core java Jun 2023_91272dc8"
+        },
+        {
+            "type": "java",
+            "name": "cj13_constructors",
+            "request": "launch",
+            "mainClass": "cj13_constructors",
+            "projectName": "core java Jun 2023_91272dc8"
+        },
+        {
+            "type": "java",
+            "name": "cj14_encapsulation",
+            "request": "launch",
+            "mainClass": "cj14_encapsulation",
+            "projectName": "core java Jun 2023_91272dc8"
+        },
+        {
+            "type": "java",
+            "name": "cj1_intro",
+            "request": "launch",
+            "mainClass": "cj1_intro",
+            "projectName": "core java Jun 2023_91272dc8"
+        },
+        {
+            "type": "java",
+            "name": "cj2_data_type",
+            "request": "launch",
+            "mainClass": "cj2_data_type",
+            "projectName": "core java Jun 2023_91272dc8"
+        },
+        {
+            "type": "java",
+            "name": "cj6_if_else",
+            "request": "launch",
+            "mainClass": "cj6_if_else",
+            "projectName": "core java Jun 2023_91272dc8"
+        },
+        {
+            "type": "java",
+            "name": "cj8_for",
+            "request": "launch",
+            "mainClass": "cj8_for",
+            "projectName": "core java Jun 2023_91272dc8"
+        }
+    ]
+}
