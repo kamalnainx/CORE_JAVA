@@ -1,0 +1,32 @@
+
+package game;
+import java.io.*;
+import javax.swing.JOptionPane;
+public class FileOperation {
+    String player1,player2, playerName;
+    int winScore=1,lostScore=0;
+    
+    void player1(String player){
+     this.player1=player;       
+    }
+    void player2(String player){
+     this.player2=player;       
+    }
+    String getData(String player){
+       
+        playerName=player.toLowerCase();
+        String finalScore="";
+        //Reading Data      
+         catch (IOException e) {
+           
+        }  
+    return finalScore;
+    }
+    void writeData(String playerName){
+        //Writing Data
+        catch(Exception e){
+            
+        }
+        }
+    }
+
